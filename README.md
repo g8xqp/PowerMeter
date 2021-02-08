@@ -8,7 +8,7 @@
 # Different calibration settings are configured 
 # for frequency bands since my directional 
 # coupler is not flat across all the bands the 
-# RF sensors can detect. 
+# AD8307 RF sensors can detect. 
 # Frequency range can be switched from the console 
 # and data can also be collected for logging.  
 #
